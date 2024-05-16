@@ -1,5 +1,5 @@
 ---
-title: "Publishing a software? Why?"
+title: "The submission and review process [video]"
 teaching: 10
 exercises: 2
 ---
