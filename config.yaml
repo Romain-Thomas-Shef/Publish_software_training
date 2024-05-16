@@ -65,6 +65,8 @@ contact: 'romain.thomas@sheffield.ac.uk'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- requirements.md
+- the_process.md
 
 # Information for Learners
 learners: 
