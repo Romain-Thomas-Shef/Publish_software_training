@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Publishing a software? Why?"
 teaching: 10
 exercises: 2
 ---
