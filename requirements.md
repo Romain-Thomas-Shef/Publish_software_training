@@ -1,14 +1,13 @@
 ---
-title: "Publishing a software? Why?"
+title: "Requirements"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Why would you publish your software?
-- What does it mean to publish a software?
-- Where can you publish it?
+- What skills do I need to make my software publishable?
+- Getting ready for submission
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
