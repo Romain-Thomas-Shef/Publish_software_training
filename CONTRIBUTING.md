@@ -47,8 +47,8 @@ use [GitHub flow][github-flow] to manage changes:
 NB: The published copy of the lesson is usually in the `main` branch.
 
 
-[repo]: https://github.com/<account>/<repo>#FIXME
-[repo-issues]: https://github.com/<account>/<repo>/issues#FIXME
+[repo]: https://github.com/Romain-Thomas-Shef/Publish_software_training
+[repo-issues]: https://github.com/Romain-Thomas-Shef/Publish_software_training/issues
 [contact]: mailto:rse@sheffield.ac.uk
 [cp-site]: https://carpentries.org/
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
