@@ -6,7 +6,8 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- Why would you publish your software?
+- Where can you publish it?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
