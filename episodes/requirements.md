@@ -1,5 +1,5 @@
 ---
-title: "Requirements for a JOSS submission"
+title: "The Author's side: Requirements for a JOSS submission"
 teaching: 10
 exercises: 2
 ---
@@ -22,4 +22,6 @@ exercises: 2
 
 ## What does your software need to be publishable?
  
-## The paper
+## The JOSS paper
+
+## Submit your work!!!
